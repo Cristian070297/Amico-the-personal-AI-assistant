@@ -1,0 +1,26 @@
+ Environment variables
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Generated database file
+*.db
+*.db-journal # SQLite journal files
+
+# Generated log files
+*.log
+*.csv
+
+# IDE / Editor specific files (optional, examples)
+.vscode/
+.idea/
+*.swp
+
+# Virtual environment folder (if you created one inside the project)
+venv/
+.venv/
+env/
